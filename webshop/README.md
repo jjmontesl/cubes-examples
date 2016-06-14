@@ -30,8 +30,8 @@ fictional web visits (country of visitor, page views, browser...).
 Slicer Usage
 ------------
 
-Make sureyou've installed Cubes 1.0.x and that the `slicer` command
-is available (either globally or within a virtualenv).
+Make sure you've installed Cubes 1.0.x and that the `slicer` command
+is available (either globally or within a *virtualenv*).
 
 Execute:
 
