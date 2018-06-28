@@ -39,6 +39,8 @@ Execute:
 
 Documentation: http://packages.python.org/cubes/server.html
 
+If you are on Windows you may need to remove the `processes: 6` line
+from the `slicer.ini` file.
 
 CubesViewer
 -----------
